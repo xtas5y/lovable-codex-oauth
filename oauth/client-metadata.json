@@ -1,0 +1,15 @@
+{
+  "client_id": "https://xtas5y.github.io/lovable-codex-oauth/oauth/client-metadata.json",
+  "client_name": "OpenAI Codex client for Lovable MCP",
+  "client_uri": "https://xtas5y.github.io/lovable-codex-oauth",
+  "redirect_uris": [
+    "http://127.0.0.1:5555/callback/FPMUXsMr8xq7"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
